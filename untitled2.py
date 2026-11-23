@@ -183,6 +183,9 @@ goal = (1, 2, 0,
 
 solution = dfs(start, goal)
 
+print("Deval")
+print("1WN24CS090")
+
 if solution is None:
     print("No solution exists.")
 else:
